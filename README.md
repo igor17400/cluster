@@ -15,6 +15,21 @@ Welcome to "From Chaos to Clusters"! This tutorial aims to share my step-by-step
 - **Practical Understanding**: Gain hands-on experience through examples and exercises.
 - **Applications**: Understand how clustering can solve real-world problems effectively.
 
+
+## Applications
+
+Given my research focus on applications related to news articles, such as recommendation systems, I have dedicated all my notebooks and applications to this topic. Specifically, I will utilize the MIND-small dataset due to its pre-formatted structure, user-friendly accessibility, and extensive references available.
+
+**Dataset Link:** [MIND-small Dataset](https://msnews.github.io/)
+
+You can easily download the dataset using the following commands:
+
+```bash
+cd data/
+chmod +x data_download.sh
+./data_download.sh
+```
+
 ## Contributions
 
 Feel free to contribute to this repository by adding your own implementations, examples, or suggesting improvements. Let's build a valuable resource together!
